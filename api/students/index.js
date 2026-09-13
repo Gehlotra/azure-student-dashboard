@@ -1,3 +1,4 @@
+// trigger redeploy
 const sql = require('mssql');
 
 module.exports = async function (context, req) {
